@@ -1,0 +1,23 @@
+Mean value for real:  1.243093857593095
+Mean value for approx:  1.2558997079546312
+Standard deviation for real:  4.835381440452381
+Standard deviation for approx:  5.077442612887369
+
+
+exp_val_approx(X_tab, X_approx_tab)
+0.20202464293294362
+np.sqrt(exp_val_approx(X_tab, X_approx_tab))
+0.4494715151518988
+
+# LEWA STRONA
+0.4494715151518988
+# PRAWA STRONA
+2*np.abs(theta_approx - theta_real).max()
+1.2516945585053296
+
+KL(P,Q)
+0.018229041241507055
+
+KS test
+KstestResult(statistic=0.028, pvalue=0.8282194040312439)
+
