@@ -3,8 +3,8 @@
 
 This repo contains the Jupyter notebooks with examples of estimating time-dependent parameters of Markov models in two cases:
 
- 1. Nonlinear regression ([LINK](https://github.com/mwiacek8/DL-based-estimation/tree/main/SDEs))
- 2. Stochastic Differential Equations ([LINK](https://github.com/mwiacek8/DL-based-estimation/tree/main/regression_2D))
+ 1. Nonlinear regression ([LINK](https://github.com/mwiacek8/DL-based-estimation/tree/main/regression_2D))
+ 2. Stochastic Differential Equations ([LINK](https://github.com/mwiacek8/DL-based-estimation/tree/main/SDEs))
 
 See our paper for details - TO BE DONE.
 ## Abstract
